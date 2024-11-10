@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/nothings/stb",
+    "maintainers": [
+        {
+            "email": "jeff@mcglynn.dev",
+            "github": "jwmcglynn",
+            "name": "Jeff McGlynn"
+        }
+    ],
+    "repository": [
+        "github:nothings/stb"
+    ],
+    "versions": [
+        "1.0.0"
+    ],
+    "yanked_versions": {}
+}
